@@ -20,8 +20,15 @@
     align-items: center;
     overflow-wrap: break-word;
 }
+
 .tarea-icono{
     width: 25px;
     height: 25px;
     margin: 5px;
+}
+
+/* Tarea completada*/
+.completada{
+    background-color: #5a01a7;
+    text-decoration: line-through;
 }
