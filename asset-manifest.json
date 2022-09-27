@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/app-tareas/static/css/main.6fa9cdf9.css",
+    "main.css": "/app-tareas/static/css/main.7f688536.css",
     "main.js": "/app-tareas/static/js/main.19f8221c.js",
     "static/media/freeCodeCampLogo.png": "/app-tareas/static/media/freeCodeCampLogo.5486935b905c7949600c.png",
     "index.html": "/app-tareas/index.html",
-    "main.6fa9cdf9.css.map": "/app-tareas/static/css/main.6fa9cdf9.css.map",
+    "main.7f688536.css.map": "/app-tareas/static/css/main.7f688536.css.map",
     "main.19f8221c.js.map": "/app-tareas/static/js/main.19f8221c.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fa9cdf9.css",
+    "static/css/main.7f688536.css",
     "static/js/main.19f8221c.js"
   ]
 }
