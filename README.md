@@ -6,10 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Ejecuta la aplicacion .\
+Abre [https://fernando473.github.io/app-tareas/](https://fernando473.github.io/app-tareas/) para ver en tu navegador.
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
 Open [https://fernando473.github.io/app-tareas/](https://fernando473.github.io/app-tareas/) to view it in your browser.
+
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
