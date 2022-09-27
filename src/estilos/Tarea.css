@@ -27,6 +27,10 @@
     margin: 5px;
 }
 
+.tarea-contenedor-iconos:hover{
+    color:red;
+}
+
 /* Tarea completada*/
 .completada{
     background-color: #5a01a7;
